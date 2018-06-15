@@ -1,7 +1,20 @@
+[
 {
-  "profiles": [
-    { "id": 1, "name": "john", "age": 21 },
-    { "id": 2, "name": "judy", "age": 31 },
-    { "id": 3, "name": "jack", "age": 41 }
-  ]
+    "ID": "001",
+   "Name": "Eurasian Collared-Dove",
+    "Type": "Dove",
+    "Scientific Name": "Streptopelia"
+},
+{
+    "ID": "002",
+    "Name": "Bald Eagle",
+    "Type": "Hawk",
+    "Scientific Name": "Haliaeetus leucocephalus" 
+},
+{
+    "ID": "003",
+    "Name": "Cooper's Hawk",
+    "Type": "Hawk",
+    "Scientific Name": "Accipiter cooperii" 
 }
+]
